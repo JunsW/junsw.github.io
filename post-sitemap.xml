@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://junshuo.Wang/2019/05/06/Test-1/</loc>
+        <lastmod>2019-05-06T13:44:15.831Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://junshuo.Wang/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2019-03-22T11:17:49.732Z</lastmod>
         <changefreq>weekly</changefreq>
